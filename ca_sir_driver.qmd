@@ -15,8 +15,8 @@ import numpy as np
 import matplotlib.pyplot as plt
 from functions.draw import draw
 from functions.init import init_grid
-from function.mouse import mouse_to_grid 
-from function.update import update_sir
+from functions.mouse import mouse_to_cell 
+from functions.update import update_sir
 
 # import functions here....
 
